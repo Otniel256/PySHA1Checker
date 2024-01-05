@@ -1,0 +1,1 @@
+# PySHA1Checker
